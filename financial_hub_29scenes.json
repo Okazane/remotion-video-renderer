@@ -1,0 +1,185 @@
+{
+  "title": "Đề xuất ưu tiên tài sản mã hóa, tín chỉ carbon tại Trung tâm tài chính quốc tế",
+  "category": "TÀI CHÍNH QUỐC TẾ",
+  "sourceName": "VnExpress (19/8/2026)",
+  "sourceUrl": "https://vnexpress.net",
+  "tickerText": "Đề xuất ưu tiên 6 nhóm sản phẩm tại Trung tâm tài chính quốc tế TP.HCM và Đà Nẵng • Tài sản mã hóa & Tín chỉ carbon",
+  "primaryColor": "#00F2FE",
+  "accentColor": "#FACC15",
+  "scenes": [
+    {
+      "id": 1,
+      "headline": "ĐẶC KHU TÀI CHÍNH CHO TIỀN SỐ",
+      "vo": "Việt Nam sắp có một đặc khu tài chính cho tiền số và tín chỉ carbon.",
+      "visual_query": "vietnam map technology blockchain crypto future glow"
+    },
+    {
+      "id": 2,
+      "headline": "ĐỀ XUẤT MỚI NGÀY 19/8",
+      "vo": "Đề xuất mới nhất vừa được đưa ra ngày 19/8.",
+      "visual_query": "breaking news financial calendar 19 august update"
+    },
+    {
+      "id": 3,
+      "headline": "ƯU TIÊN TÀI SẢN MÃ HÓA & CARBON",
+      "vo": "Tài sản mã hóa và tín chỉ carbon quốc tế được đề xuất ưu tiên triển khai sớm.",
+      "visual_query": "crypto bitcoin green carbon credits ecology blockchain"
+    },
+    {
+      "id": 4,
+      "headline": "TP.HCM VÀ ĐÀ NẴNG",
+      "vo": "Địa điểm áp dụng là Trung tâm tài chính quốc tế tại Thành phố Hồ Chí Minh và Đà Nẵng.",
+      "visual_query": "saigon landmark 81 da nang dragon bridge night skyline"
+    },
+    {
+      "id": 5,
+      "headline": "CUỘC HỌP DO PHÓ THỦ TƯỚNG CHỦ TRÌ",
+      "vo": "Đề xuất được đưa ra tại cuộc họp do Phó thủ tướng Nguyễn Văn Thắng chủ trì.",
+      "visual_query": "government meeting conference room formal council"
+    },
+    {
+      "id": 6,
+      "headline": "6 NHÓM SẢN PHẨM ƯU TIÊN",
+      "vo": "Tổng cộng có 6 nhóm sản phẩm, dịch vụ được đề xuất ưu tiên.",
+      "visual_query": "infographic 6 products financial services chart"
+    },
+    {
+      "id": 7,
+      "headline": "1. QUỸ ĐẦU TƯ & QUẢN LÝ TÀI SẢN",
+      "vo": "Đầu tiên là quỹ đầu tư và quản lý tài sản.",
+      "visual_query": "investment fund asset wealth management pie chart"
+    },
+    {
+      "id": 8,
+      "headline": "2. TÀI SẢN MÃ HÓA (RWA)",
+      "vo": "Thứ hai, tài sản mã hóa dựa trên tài sản thực.",
+      "visual_query": "real world assets tokenization blockchain building"
+    },
+    {
+      "id": 9,
+      "headline": "3. TÍN CHỈ CARBON QUỐC TẾ",
+      "vo": "Thứ ba, tín chỉ carbon quốc tế.",
+      "visual_query": "carbon credit green earth planet clean renewable energy"
+    },
+    {
+      "id": 10,
+      "headline": "4. SÀN HÀNG HÓA PHÁI SINH",
+      "vo": "Thứ tư, sàn giao dịch hàng hóa và hàng hóa phái sinh.",
+      "visual_query": "commodity exchange candlestick chart stock trade display"
+    },
+    {
+      "id": 11,
+      "headline": "5. CÔNG NGHỆ TÀI CHÍNH (FINTECH)",
+      "vo": "Thứ năm, công nghệ tài chính, hay còn gọi là fintech.",
+      "visual_query": "fintech digital banking smartphone payment circuit"
+    },
+    {
+      "id": 12,
+      "headline": "6. TRÁI PHIẾU",
+      "vo": "Và cuối cùng là trái phiếu.",
+      "visual_query": "government bonds financial security certificate stamp"
+    },
+    {
+      "id": 13,
+      "headline": "XUẤT PHÁT TỪ NHU CẦU THỰC",
+      "vo": "Theo Bộ Tài chính, sản phẩm mới phải xuất phát từ nhu cầu thực của nền kinh tế.",
+      "visual_query": "ministry of finance economy balance scale policy"
+    },
+    {
+      "id": 14,
+      "headline": "BẢO ĐẢM AN NINH QUỐC GIA",
+      "vo": "Đồng thời phải tuân thủ điều ước quốc tế và bảo đảm an ninh quốc gia.",
+      "visual_query": "security shield international treaty global law cyber"
+    },
+    {
+      "id": 15,
+      "headline": "HOÀN THIỆN ĐIỀU KIỆN VẬN HÀNH",
+      "vo": "Thay vì mở rộng nhiều cơ chế cùng lúc, ưu tiên trước mắt là hoàn thiện điều kiện vận hành thực tế.",
+      "visual_query": "gears mechanism operational execution system workflow"
+    },
+    {
+      "id": 16,
+      "headline": "HOÀN THIỆN QUY ĐỊNH PHÁP LÝ",
+      "vo": "Các quy định về ngoại hối, tín dụng, tài sản bảo đảm cũng cần sớm hoàn thiện.",
+      "visual_query": "foreign exchange credit guarantee document banking legal"
+    },
+    {
+      "id": 17,
+      "headline": "CHỈ ĐẠO THIẾT KẾ SẢN PHẨM MỚI",
+      "vo": "Phó thủ tướng Nguyễn Văn Thắng yêu cầu Bộ Tài chính sớm thiết kế các sản phẩm tài chính mới.",
+      "visual_query": "financial blueprint architecture design economic strategy"
+    },
+    {
+      "id": 18,
+      "headline": "TẠO GIAO DỊCH THỰC CHẤT",
+      "vo": "Ưu tiên những sản phẩm có khả năng tạo ra giao dịch thực chất.",
+      "visual_query": "handshake business transaction growth commercial trade"
+    },
+    {
+      "id": 19,
+      "headline": "VẬN HÀNH THÔNG SUỐT",
+      "vo": "Mục tiêu trước mắt là Trung tâm phải vận hành thông suốt.",
+      "visual_query": "smooth operation high tech network green light core"
+    },
+    {
+      "id": 20,
+      "headline": "HÌNH THÀNH THƯƠNG VỤ CỤ THỂ",
+      "vo": "Phải có thành viên, có sản phẩm, và sớm hình thành thương vụ cụ thể.",
+      "visual_query": "business team product deal contract signing agreement"
+    },
+    {
+      "id": 21,
+      "headline": "THU HÚT VỐN TRUNG VÀ DÀI HẠN",
+      "vo": "Trọng tâm là thu hút nguồn vốn trung và dài hạn cho nền kinh tế.",
+      "visual_query": "capital flow investment money vietnam financial growth"
+    },
+    {
+      "id": 22,
+      "headline": "TP.HCM VÀ ĐÀ NẴNG ĐÃ SẴN SÀNG",
+      "vo": "Thành phố Hồ Chí Minh và Đà Nẵng đã chủ động bố trí nguồn lực và hạ tầng.",
+      "visual_query": "landmark 81 saigon da nang dragon bridge night skyline"
+    },
+    {
+      "id": 23,
+      "headline": "BÁO CÁO HỆ THỐNG IT THÁNG 9",
+      "vo": "Thành phố Hồ Chí Minh sẽ báo cáo hệ thống công nghệ thông tin dùng chung trong tháng 9.",
+      "visual_query": "server datacenter cloud network high tech rack"
+    },
+    {
+      "id": 24,
+      "headline": "CƠ CHẾ THANH TRA LIÊN BỘ",
+      "vo": "Cơ chế thanh tra, giám sát liên bộ cũng sẽ ban hành trong tháng 9.",
+      "visual_query": "audit inspection government compliance review regulation"
+    },
+    {
+      "id": 25,
+      "headline": "TÒA ÁN & TRỌNG TÀI QUỐC TẾ",
+      "vo": "Tòa án chuyên biệt và trung tâm trọng tài quốc tế dự kiến ra mắt ngay trong tháng này.",
+      "visual_query": "international arbitration court gavel justice balance"
+    },
+    {
+      "id": 26,
+      "headline": "FTSE RUSSELL CÔNG BỐ NGÀY 21/8",
+      "vo": "Đáng chú ý, ngày 21/8 tới, FTSE Russell sẽ công bố cổ phiếu Việt Nam vào rổ chỉ số toàn cầu.",
+      "visual_query": "ftse russell global stock market index vietnam trading"
+    },
+    {
+      "id": 27,
+      "headline": "THỜI ĐIỂM VÀNG ĐÓN DÒNG VỐN",
+      "vo": "Đây được xem là thời điểm vàng để Thành phố Hồ Chí Minh và Đà Nẵng đón dòng vốn quốc tế.",
+      "visual_query": "golden opportunity international capital foreign investment"
+    },
+    {
+      "id": 28,
+      "headline": "TRUNG TÂM TÀI CHÍNH TĂNG TỐC",
+      "vo": "Trung tâm tài chính quốc tế Việt Nam đang tăng tốc từng ngày.",
+      "visual_query": "vietnam financial hub future skyline smart city night"
+    },
+    {
+      "id": 29,
+      "headline": "BẠN NGHĨ SAO VỀ CƠ HỘI NÀY?",
+      "vo": "Bạn nghĩ sao về cơ hội này? Hãy để lại bình luận bên dưới và theo dõi kênh nhé.",
+      "visual_query": "community discussion comments engagement call to action"
+    }
+  ]
+}

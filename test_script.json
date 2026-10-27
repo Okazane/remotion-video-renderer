@@ -1,0 +1,21 @@
+{
+  "title": "Đề xuất đặc khu tài chính tiền số tại Việt Nam",
+  "category": "CÔNG NGHỆ & TÀI CHÍNH",
+  "sourceName": "VnExpress",
+  "scenes": [
+    {
+      "id": 1,
+      "headline": "ĐẶC KHU TÀI CHÍNH MỚI",
+      "vo": "Việt Nam chuẩn bị có một đặc khu tài chính dành riêng cho tiền số và tín chỉ carbon.",
+      "visual_query": "vietnam map technology blockchain digital finance glow",
+      "duration_hint": 4
+    },
+    {
+      "id": 2,
+      "headline": "TRIỂN KHAI TẠI TP.HCM & ĐÀ NẴNG",
+      "vo": "Địa điểm được đề xuất áp dụng là trung tâm tài chính quốc tế tại Thành phố Hồ Chí Minh và Đà Nẵng.",
+      "visual_query": "landmark 81 saigon da nang dragon bridge night",
+      "duration_hint": 5
+    }
+  ]
+}
